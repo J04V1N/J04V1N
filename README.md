@@ -4,7 +4,8 @@
   ---
   
  - 🔭 I’m currently working at Playwing as Data Manager / Release & Build Specialist
- - 🌱 I'm Currently learning Docker, Javascripts, Jenkins Pipeline and Unreal Engine Automation / Build Tool
+ - 🌱 I'm Currently learning Docker, Javascripts
+     🌱 And learning more about Jenkins Pipeline and Unreal Engine Automation / Build Tool
  - 📫 You can Reach me by mail at j04v1n.f4rr4t@gmail.com
  - 💡I Want to help small team to have better build system.
   
