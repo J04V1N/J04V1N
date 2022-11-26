@@ -23,10 +23,10 @@
 <h4> Versionning : </h4>
 <p> Git, Perforce, Plastic SCM </p>
 
-<h4> CI/CD </h4>
+<h4> CI/CD : </h4>
 <p> Jenkins (Pipeline) </p>
 
-<h4> Project Management </h4>
+<h4> Project Management : </h4>
 <p> Jira, Confluence, Trello, Microsoft Office </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
